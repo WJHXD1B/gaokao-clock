@@ -15,7 +15,7 @@
 [本人](https://mytrainnet.xyz)即将高考 所以就在听网课时产生了这个想法
 
 [本人](https://mytrainnet.xyz)与[神秘布偶猫](ifalse.onll.cn)的共同完成<br />
-感谢[神秘布偶猫](https://www.liecat.com)的创作，其中99.99%都是他创作<br />
+感谢[神秘布偶猫](https://www.liecat.com)的创作,陪我熬到凌晨<br />
 如果有喜欢的可以多多支持，点上一个⭐Star！<br />
 也别忘了他的WP主题[https://www.liecat.com/](https://www.liecat.com/)，点上一个⭐Star！
 
