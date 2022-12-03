@@ -17,9 +17,9 @@
 [本人](https://mytrainnet.xyz)与[神秘布偶猫](ifalse.onll.cn)的共同完成<br />
 感谢[神秘布偶猫](https://www.liecat.com)的创作，其中99.99%都是他创作<br />
 如果有喜欢的可以多多支持，点上一个⭐Star！<br />
-也别忘了他的WP主题[https://github.com/kannafay/iFalse](https://github.com/kannafay/iFalse)，点上一个⭐Star！
+也别忘了他的WP主题[https://www.liecat.com/](https://www.liecat.com/)，点上一个⭐Star！
 
--主题演示：[https://two.gaokaoya.ml](https://two.gaokaoya.ml)
+-主题演示：[https://www.gaokaoya.ml](https://www.gaokaoya.ml)
 
 
 
