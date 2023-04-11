@@ -12,9 +12,9 @@
 
 
 ## 源码介绍
-[本人](https://mytrainnet.xyz)即将高考 所以就在听网课时产生了这个想法
+[本人](https://www.alongsir.cn)即将高考 所以就在听网课时产生了这个想法
 
-[本人](https://mytrainnet.xyz)与[神秘布偶猫](https://www.ihcat.com/)的共同完成<br />
+[本人](https://www.alongsir.cn)与[神秘布偶猫](https://www.ihcat.com/)的共同完成<br />
 感谢[神秘布偶猫](https://www.ihcat.com/)的创作,陪我熬到凌晨<br />
 如果有喜欢的可以多多支持，点上一个⭐Star！<br />
 也别忘了他的WP主题[https://ifalse.onll.cn/](https://ifalse.onll.cn/)，点上一个⭐Star！
