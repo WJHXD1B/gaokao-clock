@@ -110,8 +110,8 @@ if($android){
           <h2 class="text-center" id="h">高考倒计时</h2>
           <h3 class="text-center" id="p"></h3>
           <p class="text-center" style="display: none" id="saying">“<i><span id="saying-text"></span></i>”</p>
-    <div><span>鸣谢:本网站由</span><a href="https://lab.eovl.cn">小鱼Lab</a><span>提供网站托管服务</span></div>
-    <a href="https://mytrainnet.xyz/" target="_blank" one-link-mark="yes">摄影吧！</a><b>|</b><span>Website By </span><a href="https://ifalse.onll.cn/" target="_blank" one-link-mark="yes">神秘布偶猫</a><span>&</span><a href="http://wpa.qq.com/msgrd?v=3&uin=2426059596&site=qq&menu=yes">LongSir</a>
+    <!-- <div><span>鸣谢:本网站由</span><a href="https://lab.eovl.cn">小鱼Lab</a><span>提供网站托管服务</span></div> -->
+    <a href="//www.alongsir.cn" target="_blank" one-link-mark="yes">洛杉小站</a><b> | </b><span>Website By </span><a href="https://ifalse.onll.cn/" target="_blank" one-link-mark="yes">神秘布偶猫</a><span>&</span><a href="http://wpa.qq.com/msgrd?v=3&uin=2426059596&site=qq&menu=yes">LongSir</a>
     <div><span>BackGround:-信阳下行场跨线桥- 拍摄By:</span><a href="https://wz2m.cn">旺子</a></div>
     <div><span>仓库开源：</span><a href="https://github.com/WJHXD1B/gaokao-clock/">Github</a><b> | </b><a href="https://gitee.com/zhan-zha/gaokao-clock/">Gitee</a></div>
         <!--</p>-->
@@ -133,7 +133,7 @@ if($android){
     function getDate() {
       var oDate = new Date();//获取日期对象
       var oldTime = oDate.getTime();//现在距离1970年的毫秒数
-      var newDate = new Date('2023/6/7 00:00:00');
+      var newDate = new Date('2024/6/7 00:00:00');
       var newTime = newDate.getTime();//2023年高考离1970年的毫秒数
       var second = Math.floor((newTime - oldTime) / 1000);//未来时间距离现在的秒数
       var day = Math.floor(second / 86400);//整数部分代表的是天；一天有24*60*60=86400秒 ；
