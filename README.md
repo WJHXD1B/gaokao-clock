@@ -19,7 +19,7 @@
 如果有喜欢的可以多多支持，点上一个⭐Star！<br />
 也别忘了他的WP主题[https://ifalse.onll.cn/](https://ifalse.onll.cn/)，点上一个⭐Star！
 
--主题演示：[https://www.gaokaoya.cn](https://www.gaokaoya.cn)
+-主题演示：[https://www.gaokaoya.cn/old/](https://www.gaokaoya.cn/old/)
 
 
 
